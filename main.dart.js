@@ -23499,7 +23499,7 @@ switch(A.aH().a){case 0:case 1:return A.YN()
 case 2:return A.pU(A.b([A.yJ(B.wY),A.YL()],t.mo),t.H)
 case 3:case 4:case 5:return A.cf(null,t.H)}},
 vY(a,b){var s=null
-return new A.vV(A.ayV(s,s,new A.ub("assets/"+a,s,s)),s,s,s,b,s)},
+return new A.vV(A.ayV(s,s,new A.ub(a,s,s)),s,s,s,b,s)},
 arl(a,b){if(!b)$.c0()},
 awS(a,b,c){if(t.QL.b(b))return b
 else throw A.h("Unexpected format,\nyou can only use widgets and widget functions here")},
